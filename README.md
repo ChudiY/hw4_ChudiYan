@@ -1,3 +1,3 @@
-# ENTR-451 Assignment #4
+# HW4 - Travel Journal
 
-Full instructions at https://entr451.com/assignment-4/
+Live site: https://hw4-chudi.onrender.com
